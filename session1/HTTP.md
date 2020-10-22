@@ -16,8 +16,8 @@
 * 传输数据：接收端需要对每个数据包进行确认操作，需要发送确认数据包给发送端。在规定时间内没有接收到确认消息，触发发送端的重发机制。数据包到达接收端后，接收端会按照 TCP 头中的序号为其排序。
 * 断开连接：数据传输完毕之后，通过四次挥手保证双方都能断开连接。
 
-![](./img/http1.png)
-![](./img/http2.png)
+![](https://earhart-speech.oss-cn-zhangjiakou.aliyuncs.com/session1/img/http1.png)
+![](https://earhart-speech.oss-cn-zhangjiakou.aliyuncs.com/session1/img/http2.png)
 
 #### 三次握手
 * 客户端：我要进行传输
@@ -38,7 +38,7 @@
 * 服务器向浏览器发送响应头(服务器自身的一些信息,设置cookie)
 * 服务器继续发送响应体的数据
 
-![](./img/request.png)
+![](https://earhart-speech.oss-cn-zhangjiakou.aliyuncs.com/session1/img/request.png)
 
 #### TCP 和 HTTP 的关系示意图
-![](./img/http.png)
+![](https://earhart-speech.oss-cn-zhangjiakou.aliyuncs.com/session1/img/http.png)

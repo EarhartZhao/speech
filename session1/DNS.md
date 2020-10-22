@@ -7,4 +7,4 @@
 * 获取到IP，根据IP建立TCP连接（三次握手）
 * 所有网址真正的解析过程为: . -> .com -> baidu.com. -> www.baidu.com
   
-![](./img/dns.png)
+![](https://earhart-speech.oss-cn-zhangjiakou.aliyuncs.com/session1/img/dns.png)

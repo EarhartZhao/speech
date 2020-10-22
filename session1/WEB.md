@@ -1,6 +1,6 @@
 ### 浏览器解析并渲染
 
-![](./img/process.png)
+![](https://earhart-speech.oss-cn-zhangjiakou.aliyuncs.com/session1/img/process.png)
 
 
 * 首先，浏览器进程接收到用户输入的 URL 请求，浏览器进程便将该 URL 转发给网络进程。
@@ -14,7 +14,7 @@
 
 #### 从输入 URL 到页面展示完整流程
 
-![](./img/process2.png)
+![](https://earhart-speech.oss-cn-zhangjiakou.aliyuncs.com/session1/img/process2.png)
 
 
 ##### [渲染进程](./RENDER.md)
